@@ -78,7 +78,7 @@ a {
   left: 0;
   top: 0;
   width: 100%;
-  backdrop-filter: blur(0.3em);
+  
 }
 
 .topnav {
@@ -184,7 +184,7 @@ a {
   padding: 60px;
 }
 form{
-  display: grid;
+
   justify-content: center;
 }
 
